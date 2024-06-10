@@ -1,0 +1,1 @@
+The ingredient {{ $ingredient->name }} has a low stock of {{ $ingredient->stockInKg }} kg. The initial stock was {{ $ingredient->initialStockInKg }} kg. Please restock the ingredient as soon as possible. Thank you.;
